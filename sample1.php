@@ -33,7 +33,7 @@ if (isset($_POST["some_text"]) && $_POST["some_text"] != ""):
 	}
 	$handle = @fopen($file2, "a");
 	if ($handle) {
-		fwrite($handle, "\n".trim($random_row_val));
+		fwrite($handle, "\n".$random_row_val);
 		fclose($handle);
 	}
 ?>
