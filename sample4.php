@@ -1,11 +1,7 @@
 <?php
 /**
  * Sample #4:
- * It looks at QueryString parameters and writes the contents to a text file in JSON format.
- * Modify this file to support both QueryString GET and JSON POST.
- * For the JSON POST the data should already be in JSON format when it is posted to this page.
- * It will then take that data and save it to the file in /tmp.
- * It needs to work for BOTH querystring GET and JSON POST.
+ * Needs to work for BOTH querystring GET and JSON POST and writes the contents to a text file in JSON format
  *
  * PHP-code for validate this script:
  * <?php
