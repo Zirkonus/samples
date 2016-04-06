@@ -1,7 +1,7 @@
 # Small task accomplishment samples
 
 <b>simple1.php</b><br>
-HP Page required to create an HTML form that chooses a random line from a CSV file, and when it is filled, this line moves from this file to another CSV file.
+PHP Page required to create an HTML form that chooses a random line from a CSV file, and when it is filled, this line moves from this file to another CSV file.
 
 <b>simple2.php</b><br>
 Work with one-click mobile payment API Fortumo.
