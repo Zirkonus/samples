@@ -11,3 +11,6 @@ Function to calculate exponential moving average from array.
 
 <b>simple4.php</b><br>
 Needs to work for BOTH querystring GET and JSON POST and writes the contents to a text file in JSON format.
+
+<b>simple5.php</b><br>
+It's required to replace white and nearly white backgrounds with transparent ones and remove the empty space.
