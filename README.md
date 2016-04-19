@@ -14,3 +14,6 @@ Needs to work for BOTH querystring GET and JSON POST and writes the contents to 
 
 <b>simple5.php</b><br>
 It's required to replace white and nearly white backgrounds with transparent ones and remove the empty space.
+
+<b>simple6.php</b><br>
+Sudoku API library
