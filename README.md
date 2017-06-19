@@ -19,6 +19,4 @@ It's required to replace white and nearly white backgrounds with transparent one
 Sudoku API library
 
 <h3>sample7.php</h3>
-The mayor of the town of Invoiceville has decided to publish the prices of every item on every menu of every restaurant in town, all in a single CSV file (Invoiceville is not quite up to date with modern data serialization methods). In addition, the restaurants of Invoiceville also offer Value Meals, which are groups of several items, at a discounted price. The mayor has also included these Value Meals in the file. More detailed description in file sample7.docx
-
-
+The mayor of the town of Invoiceville has decided to publish the prices of every item on every menu of every restaurant in town, all in a single CSV file (Invoiceville is not quite up to date with modern data serialization methods). In addition, the restaurants of Invoiceville also offer Value Meals, which are groups of several items, at a discounted price. The mayor has also included these Value Meals in the file. sample7.csv is a source CSV file. More detailed description in file sample7.docx
