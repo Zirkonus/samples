@@ -62,7 +62,7 @@ if (is_uploaded_file($_FILES['userfile']['tmp_name'])) {
 ?>
 
 <br /><br />
-<form method="POST" action"info.php" enctype="multipart/form-data">
+<form method="POST" enctype="multipart/form-data">
 File: <input type="file" name="userfile" /><br />
 Search: <input type="text" name="search" value="<?=$_POST['search']?>" />
 <input type="submit" value="GO" />
